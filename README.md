@@ -1,5 +1,5 @@
-# deep-learning-project-cse676
-Deep learning project repository
+# Image Restoration Using Deep Learning
+Abstract- Image Deblurring and Image Denoising are well-known problems in Image Restoration. In this paper, we demonstrate a Deformable Convolutional Neural Network along with a Large Kernel Attention (LKA) module for image restoration tasks. Previously, Deformable CNN has produced good results in object detection and image segmentation tasks. It uses spatial sampling locations for learning offsets without any additional supervision. LKA learns 2D structure of the images which enables self-adaptive, long-range correlations when performing self-attention. This work discusses application of Deformable CNNs and LKA modules based on the ResNet backbone architecture. The combination of both of these techniques were yet to be applied to image restoration problems. Our extensive experiments on this novel model has shown comparable performance results in restoring the image from noisy and blurred data.
 
 # Dataset links
 ## 1 GoPro
